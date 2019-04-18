@@ -13,35 +13,35 @@
 ### The player
 1. Each player is the ruler of an intergalatic empire.
 2. Each empire controls a certain amount of resources
-  1. Food
-  2. Materials
-  3. Research Points
-  4. Population
-  5. Combat Power
-  6. Territory
+   1. Food
+   2. Materials
+   3. Research Points
+   4. Population
+   5. Combat Power
+   6. Territory
 3. Each player is able to purchase upgrades/units/buildings/whatever
    that modify the amount of resources and/or the rate of production of
    resources
 
 ### Resources
 1. Food
-  1. Controls the population cap
-  2. Increased by food generations (e.g. farms)
+   1. Controls the population cap
+   2. Increased by food generations (e.g. farms)
 2. Materials
-  1. Used to purchase most upgrades/units/buildings/whatever
-  2. Produced by harvesters (e.g. mines)
+   1. Used to purchase most upgrades/units/buildings/whatever
+   2. Produced by harvesters (e.g. mines)
 3. Research Points
-  1. Used to purchase scientific upgrades
-  2. Produced by researchers (e.g. labs)
+   1. Used to purchase scientific upgrades
+   2. Produced by researchers (e.g. labs)
 4. Population
-  1. Used to run any buildings (e.g. mines, labs)
-  2. Also used to "run" units
+   1. Used to run any buildings (e.g. mines, labs)
+   2. Also used to "run" units
 5. Combat power
-  1. Increased by units
-  2. Used for player to player combat
+   1. Increased by units
+   2. Used for player to player combat
 6. Territory
-  1. Increased by winning battles in player vs player combat
-  2. Used to determine the winning at the end of the month - essentially score.
+   1. Increased by winning battles in player vs player combat
+   2. Used to determine the winning at the end of the month - essentially score.
 
 
 ### Combat
